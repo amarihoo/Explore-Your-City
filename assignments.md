@@ -7,10 +7,12 @@ Assignments
 
 ![Group6.pdf](http://amarihoo.github.io/Explore-Your-City-Project/Group 6 - Final Prototype.pdf)
 
+'''html
 <object data="http://amarihoo.github.io/Explore-Your-City-Project/Group 6 - Final Prototype.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="http://amarihoo.github.io/Explore-Your-City-Project/Group 6 - Final Prototype.pdf">
     </embed>
-</object>      
+</object>
+'''html
       
  
         
