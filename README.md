@@ -1,8 +1,7 @@
 Explore Your City
 
-```markdown
-Team Members
+**Team Members**
 Amari Hoogland
 Krishna Adettiwar
 Tristan Wagar
-```
+
