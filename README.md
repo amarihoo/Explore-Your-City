@@ -1,4 +1,4 @@
-Welcome to the Explore Your City Project Website!
+
 
 ![City Skyline](http://amarihoo.github.io/Explore-Your-City-Project/red-white-nyc-skyline-lee-ann-adendorff.jpg)
       
