@@ -5,6 +5,7 @@ It is expected that the short term traveler to any given major city will explore
 The project focuses on an interactive tracking application that will provide consolidated, up-to-date information about events, trending local favorites, and new/changing business locations, as well as simply connect users to places/information they might not have been aware of previously.  Users will be able to view, sort, save, and track their exploration of new parts of their city; the goal being to explore as many new places as possible.  By providing current and locally-geared information in a consolidated format, long term residents will be able to easily and comfortably explore the city they call home.
 
 Click through to view assignment deliverables, a prototype of the application, and our project video!
+<br>
 
 
 ### **Team Members**
