@@ -10,6 +10,6 @@ Click through to view assignment deliverables, a prototype of the application, a
 
 
 ### **Team Members**
-- Amari Hoogland &nbsp;&nbsp;&nbsp;&nbsp; Amari.Hoogland@colorado.edu
-- Krishna Adettiwar &nbsp;&nbsp; Krishna.Adettiwar@colorado.edu
-- Tristan Wagar  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tristan.Wagar@colorado.edu
+- Amari Hoogland &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Amari.Hoogland@colorado.edu
+- Krishna Adettiwar &nbsp;&nbsp;&nbsp; Krishna.Adettiwar@colorado.edu
+- Tristan Wagar &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tristan.Wagar@colorado.edu
