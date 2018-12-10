@@ -3,6 +3,8 @@ layout: page
 title: Assignments
 ---
 ---
+<br>
+
 Links to all assignment PDFs:
 
 [Group 1 - Project Idea](http://amarihoo.github.io/Explore-Your-City-Project/Explore Your City Project.pdf)
