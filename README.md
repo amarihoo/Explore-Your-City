@@ -1,3 +1,4 @@
+
 ### About the Project
 ---
 It is expected that the short term traveler to any given major city will explore as much as possible during their stay, with tons of resources existing to guide them to landmarks, restaurants, and local events.  However, the long term, or even lifetime, resident is often neglected, as it is assumed that a local knows all the ins and outs of their respective city. This project aims to provide long term residents local-specific resources to motivate and facilitate continual exploration of their city.  
@@ -10,10 +11,8 @@ Click through to view assignment deliverables, a prototype of the application, a
 
 ### Team Members
 ---
-```markdown
 |Name |Email |
 ---|---
 Amari Hoogland | Amari.Hoogland@colorado.edu
 Krishna Adettiwar | Krishna.Adettiwar@colorado.edu
 Tristan Wagar | Tristan.Wagar@colorado.edu
-```
