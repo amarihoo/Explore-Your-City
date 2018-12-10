@@ -6,6 +6,7 @@ The project focuses on an interactive tracking application that will provide con
 
 Click through to view assignment deliverables, a prototype of the application, and our project video!
 <br>
+<br>
 
 
 ### **Team Members**
