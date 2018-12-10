@@ -9,7 +9,7 @@
 Click through to view assignment deliverables, a prototype of the application, and our project video!
 <br>
 <br>
-<br>
+
 
 
 ### **Team Members**
