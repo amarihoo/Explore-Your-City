@@ -20,7 +20,7 @@ Testing & Heuristic Evaluation.pdf)
 
 [Group 6 - Final Prototype & Storyboard](http://amarihoo.github.io/Explore-Your-City-Project/Group 6 - Final Prototype.pdf)
 
-[Group 7 - Project Video & Website](http://amarihoo.github.io/Explore-Your-City-Project/Group 6 - Project Video.pdf)
+[Group 7 - Project Video & Website]See other pages!
  
         
       
